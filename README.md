@@ -2,4 +2,4 @@
 
 # Dominic
 
-[![img contact](./images/readme.PNG)](https://franckdun.github.io/Dominic/)
+[![img contact](./images/readme1.PNG)](https://franckdun.github.io/Dominic/)
